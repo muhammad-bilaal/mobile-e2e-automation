@@ -1,0 +1,8 @@
+export const Timeout = {
+  ONE_SECOND: 1_000,
+  THREE_SECONDS: 3_000,
+  FIVE_SECONDS: 5_000,
+  TEN_SECONDS: 10_000,
+  THIRTY_SECONDS: 30_000,
+  FIVE_MINUTES: 300_000,
+} as const;
